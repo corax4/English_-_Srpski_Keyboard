@@ -1,9 +1,11 @@
 # English - Srpski Keyboard Layout
 
 This is a variant of the standard keyboard layout - USA (QWERTY).
+Created with [Microsoft Keyboard Layout Creator 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
 Additional Serbian Latin characters are entered via left Ctrl+Alt or right Alt (AltGr).
 
 Symbol location:
+
 - Ž on Z
 - Š on S
 - Đ on D
@@ -12,7 +14,8 @@ Symbol location:
 
 # Installation.
 
-Download and extract the zip archive. Run Setup.exe and install the layout on the system. Restart Windows.
+Download and extract the zip archive ["us_sr"](https://github.com/corax4/English_-_Srpski_Keyboard/files/8542075/us_sr.zip). Run Setup.exe and follow the instructions of the installer. Reboot Windows.
+
 Now you can select the installed keyboard layout:
 
 1. Click Start and then click the Settings icon (which is shaped like a gear).
