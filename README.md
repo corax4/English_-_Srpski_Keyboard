@@ -1,7 +1,7 @@
 # English - Srpski Keyboard Layout
 
 This is a variant of the standard keyboard layout - USA (QWERTY).
-Created with [Microsoft Keyboard Layout Creator 1.4](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
+Created with [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
 Additional Serbian Latin characters are entered via left Ctrl+Alt or right Alt (AltGr).
 
 Symbol location:
