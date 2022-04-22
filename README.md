@@ -20,12 +20,12 @@ Now you can select the installed keyboard layout:
 
 1. Click Start and then click the Settings icon (which is shaped like a gear).
 
-2. Click "Time & Language."
+2. Click "Time & Language".
 
-3. In the navigation pane on the left, click "Language."
+3. In the navigation pane on the left, click "Language".
 
-4. In the "Preferred languages section," click "English" language and then click "Options."
+4. In the "Preferred languages section", click "English" language and then click "Options".
 
-5. Scroll down to "Keyboards" and then click "Add a keyboard." In the pop-up menu, click the "USA - Srpski" keyboard language to add.
+5. Scroll down to "Keyboards" and then click "Add a keyboard". In the pop-up menu, click the "USA - Srpski" keyboard language to add. Now the default layout can be removed.
 
 6. Close Settings.
